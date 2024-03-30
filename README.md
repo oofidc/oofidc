@@ -1,5 +1,5 @@
 
-Hi, I'm oofidc!
+Hi, I'm Ndiana!
 I'm a High School Nigerian-American programmer based in Chicago, IL, with a passion for coding and problem-solving. Currently, I'm also a member of an internship program at Valix Group, where I'm honing my skills and gaining real-world experience in the tech industry.
 
 **Skills**
