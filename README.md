@@ -30,4 +30,4 @@ Email: ndianaobot8@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/ndiana-obot-a749a8228/
 
-https://www.codewars.com/users/oofidc/badges/large
+![Codewars](https://www.codewars.com/users/oofidc/badges/large)
