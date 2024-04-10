@@ -29,3 +29,5 @@ Relevant Courses: APCSA, CS50
 Email: ndianaobot8@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/ndiana-obot-a749a8228/
+
+https://www.codewars.com/users/oofidc/badges/large
